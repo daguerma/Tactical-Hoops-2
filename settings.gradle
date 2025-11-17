@@ -1,0 +1,2 @@
+rootProject.name = "Tactical Hoops 2"
+include ':app'
