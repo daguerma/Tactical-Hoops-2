@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tactical Hoops 2</string>
+    <string name="tab_board">Board</string>
+    <string name="tab_chat">Chat</string>
+    <string name="clear_board">Clear</string>
+    <string name="share_play">Share Play</string>
+    <string name="add_player">Add Player</string>
+    <string name="add_ball">Add Ball</string>
+    <string name="draw_arrow">Draw Arrow</string>
+    <string name="send_message">Send</string>
+    <string name="message_hint">Type a message...</string>
+    <string name="play_shared">Play shared in chat</string>
+    <string name="no_messages">No messages yet. Share a play to start!</string>
+</resources>
