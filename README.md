@@ -62,11 +62,11 @@ git clone https://github.com/daguerma/Tactical-Hoops-2.git
 cd Tactical-Hoops-2
 ```
 
-2. Abrir el proyecto en Android Studio
+1. Abrir el proyecto en Android Studio
 
-3. Sincronizar las dependencias de Gradle
+2. Sincronizar las dependencias de Gradle
 
-4. Ejecutar la aplicación en un emulador o dispositivo físico
+3. Ejecutar la aplicación en un emulador o dispositivo físico
 
 ## Uso
 
